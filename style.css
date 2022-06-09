@@ -1,0 +1,70 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #2effe7;
+}
+.cadastro-principal{
+height: 50px;
+width: 100%;
+}
+.menu {
+  display: inline-block;
+  color: #252323;
+
+}
+
+.dir {
+  float:;
+}
+.lin {
+  margin-left: 400px;
+  color: #000000;
+}
+
+.esp {
+  margin-bottom: 10px;
+}
+
+.bot {
+  margin-top: 20px;
+ text-align: center;
+}
+
+@media only screen and (max-width: 1000px){
+  .lin {
+    margin-left: 300px;
+    }
+}
+
+@media only screen and (max-width: 800px){
+  .lin {
+    margin-left: 250px;
+    }
+}
+
+@media only screen and (max-width: 700px){
+  .lin {
+    margin-left: 200px;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 580px){
+  .lin {
+    margin-left: 100px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+  .lin {
+    margin-left: 60px;
+    }
+}
+
+@media only screen and (max-width: 440px){
+  .lin {
+    margin-left: 40px;
+    }
+}
